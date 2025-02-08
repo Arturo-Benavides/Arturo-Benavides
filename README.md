@@ -11,7 +11,7 @@ My goal is to build **scalable, interactive, and data-driven applications** whil
 - 🖥 **Web Development:** Building responsive and dynamic web applications.
 - ☁️ **Cloud & Firebase:** Fetching and managing real-time data.
 - 💡 **Problem-Solving:** Creating optimized and scalable solutions.
-- 🔧 **Tech Stack:** JavaScript | HTML | CSS | Firebase | React | Next.js | Node.js.
+- 🔧 **Tech Stack:** JavaScript | HTML | CSS | Firebase | React | Next.js | Node.js. | Swift
 
 ---
 
