@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Arturo Benavides
 
-<!--
-**Arturo-Benavides/Arturo-Benavides** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Engineer | Web Developer | Coffee Enthusiast**  
 
-Here are some ideas to get you started:
+I’m passionate about **web development, backend technologies, and cloud-based solutions**.  
+My goal is to build **scalable, interactive, and data-driven applications** while continuously learning new technologies.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 **What I Do**
+- 🖥 **Web Development:** Building responsive and dynamic web applications.
+- ☁️ **Cloud & Firebase:** Fetching and managing real-time data.
+- 💡 **Problem-Solving:** Creating optimized and scalable solutions.
+- 🔧 **Tech Stack:** JavaScript | HTML | CSS | Firebase | React | Next.js | Node.js.
+
+---
+
+## 🌎 **Connect With Me**
+- 📬 **Email:** [ab@arturob.io](mailto:ab@arturob.io)
+- 🔗 **GitHub:** [@Arturo-Benavides](https://github.com/Arturo-Benavides)
+- 🎨 **Portfolio:** [arturob.io](https://www.arturob.io)
+
+---
+
+⚡ **Fun Fact:** I love exploring new technologies and challenging myself with new projects! 🚀  
+💡 Always open to collaborations and new opportunities. Let’s connect!  
