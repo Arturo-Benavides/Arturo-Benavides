@@ -16,9 +16,9 @@ My goal is to build **scalable, interactive, and data-driven applications** whil
 ---
 
 ## 🌎 **Connect With Me**
-- 📬 **Email:** [ab@arturob.io](mailto:arturo.benavides@radical16.com)
+- 📬 **Email:** [arturo.benavides@radical16.com](mailto:arturo.benavides@radical16.com)
 - 🔗 **GitHub:** [@Arturo-Benavides](https://github.com/Arturo-Benavides)
-- 🎨 **Portfolio:** [arturob.io](https://www.radical16.com)
+- 🎨 **Portfolio:** [radical16.com](https://www.radical16.com)
 
 ---
 
